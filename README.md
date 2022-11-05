@@ -1,6 +1,6 @@
 # Wunderweather-Scraper
 
-A scraper that, through Selenium, scrapes weather data of user-entered city of the whole year of 2021.
+A scraper that, through Selenium, scrapes weather data of user-entered city of the whole year of 2021 from [WunderGround](https://www.wunderground.com/)
 
 Exception: Doesn't support U.S States yet, which is subject to change in the future.
 
